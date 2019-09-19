@@ -1,1 +1,0 @@
-/Users/tomblanchard/.config/fish/
